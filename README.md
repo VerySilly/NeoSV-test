@@ -10,3 +10,4 @@ neosv -sf test.sv.vcf\    # vcf变异文件
       -o test \ #输出目录
       -p test \ #前缀，可以是sample ID
       -r 75    #要使用的 Ensembl 版本。hg19/GRCh37 和 hg38/GRCh38 的 Ensembl 版本分别为 75 和 96。
+# 详细使用说明请参见https://github.com/ysbioinfo/NeoSV
