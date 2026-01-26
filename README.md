@@ -1,7 +1,7 @@
 # NeoSV-test
 ## 直接在python>3.6的环境中安装程序，即可调用
 ### 安装
-pip install neosv
+* pip install neosv
 ***
 ### 调用
 
